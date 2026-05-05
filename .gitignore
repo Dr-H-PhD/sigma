@@ -5,3 +5,6 @@ TRACKER.local.md
 
 ### Claude session state
 .claude/
+
+### IDE
+.idea/
